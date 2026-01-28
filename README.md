@@ -13,8 +13,8 @@ A modern, browser-based expense tracker built using **HTML, CSS, and JavaScript*
 
 ## 🔗 Live Demo
 
-👉 [Click here to view on GitHub Pages](https://your-username.github.io/expense-tracker/)  
-*(Replace with your actual URL after publishing)*
+👉 [Click here to view on GitHub Pages](https://guna2808.github.io/Advanced-Expense-Tracker)  
+*
 
 ---
 
