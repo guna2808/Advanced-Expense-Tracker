@@ -14,7 +14,6 @@ A modern, browser-based expense tracker built using **HTML, CSS, and JavaScript*
 ## 🔗 Live Demo
 
 👉 [Click here to view on GitHub Pages](https://guna2808.github.io/Advanced-Expense-Tracker)  
-*
 
 ---
 
