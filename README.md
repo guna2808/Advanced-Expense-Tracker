@@ -42,7 +42,7 @@ A modern, browser-based expense tracker built using **HTML, CSS, and JavaScript*
 
 ## 📁 Project Structure
 
-📦 Advanced Expense Tracker/
+📦 Advanced Expense Tracker
 ├── index.html # Main HTML file
 ├── style.css # Styling and responsive layout
 └── script.js # Core logic, chart, filters, storage
